@@ -1,0 +1,2 @@
+# Cinnamon-theme
+Blue mint
